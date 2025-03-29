@@ -1,0 +1,189 @@
+body { background-color: #0099CC;
+	   color: #000000;
+	   font-family: Verdana,Arial,sans-serif;
+	   font-weight: bold;
+	   background-image: url(gradientblue.jpg);}
+header { background-color: #000000;
+		 color: #006633;
+		 background-image: url(bistro.gif);
+		 background-position: center;
+		 background-repeat: no-repeat;}
+label {float: left;
+	   text-align: right;
+	   width: 8em;
+	   padding-right: .5em;
+	   font-weight: bold;}
+input, select, textarea {display: block;
+						 margin-bottom: .70em;}
+#mySubmit {margin-left: 20em;}
+fieldset {width: 700px;
+		  border: 6px solid #FFEE33;}
+legend {color: #009900;
+		font-family: Georgia, "Times New Roman", serif;
+		font-weight: bold;}
+h1 { text-align: center;
+	 font-size: 3em;
+	 padding: 10px;
+	 line-height: 200%;
+	 text-shadow: 4px 4px 2px #FFCC33;}
+h3 { background-color: #006633;
+	 color: #FFCC33;
+	 text-align: center; }
+nav {font-weight: bold; 
+	 float: right;
+	 width: 160px;
+	 font-size: .90em;
+	 background-color: #006633;}
+nav ul {list-style-type: none;}
+nav a {text-decoration: none;}
+
+nav a:link {color: #FFCC33;}
+nav a:visited {color: #FFFFFF;}
+nav a:hover {color: #CCCCCC;}
+
+table {border: 4px solid #00008B;
+	   border-collapse: collapse;}
+.tablegroup {background-color: #996600;
+			 color: #FFCC33;
+			 font-size: .75em;}
+td {padding: .5em;
+	background-color: #CCCCCC;
+	color: #660000;
+	font-size: .65em;
+	text-align: center;
+	border: 2px solid #00008B;}
+th {padding: .5em;
+	border: 2px solid #00008B;}
+
+main {margin-right: 180px;
+	  padding-left: 20px;
+	  padding-bottom: 20px;}
+	  
+.group {font-weight: bold;
+		background-color: #FFCC33;
+		color: #006633;
+		font-size: 1em;
+		text-shadow: 1px 1px 1px #666; }
+footer { font-size: .70em;
+		 font-style: italic;
+		 padding: 10px;
+		 margin-right: 180px;}
+		
+footer nav {text-align: left;}
+
+#wrapper { min-width:700px;
+		   max-width:1024px;
+                   width: 80%;
+		   margin-left: auto;
+		   margin-right: auto;
+		   background-color: #FFFFCC;
+		   color: #006633;}
+		   
+header, main, nav, footer {display: block;}
+		   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Detterman Chapter 8 Corrected Files*/
